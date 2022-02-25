@@ -1,0 +1,111 @@
+.App {
+  width: 100%;
+  height: 100%;
+  background-color: lightgray;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.headerOuter {
+  width: 100%;
+  height: 50px;
+  background-color: #005;
+  color: white;
+}
+
+.headerInner {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.headerInner > .logo {
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.headerInner > .navBtn {
+  font-size: 20px;
+}
+
+.highlights {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.highlights > .hilight {
+  background-color: lightseagreen;
+}
+
+.highlights > .advert {
+  background-color:deepskyblue;
+}
+
+.highlights > .highlightItem {
+  height: 40px;
+  align-items: center;
+  padding-left: 5px;
+  margin-bottom: 2px;
+}
+
+.content {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mainContent {
+  background-color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  max-width: 700px;
+  border-top: 1px solid black;
+}
+
+.mainContent > #mainImage {
+  width: 100%;
+  height: auto;
+}
+
+.sideBar {
+  background-color: white;
+  width: 100%;
+  margin-left: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.sideBar > h1 {
+  border-bottom: 1px solid black;
+}
+
+.mostReadItem {
+  margin-bottom: 10px;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 5px;
+}
+
+.placementNumber {
+  font-size: 40px;
+  margin-right: 20px;
+  color: cadetblue;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,67 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Seagate Portable 2TB External Hard Drive Portable HDD - USB 3.0 for PC, Mac, PlayStation, & Xbox - 1-Year Rescue Service (STGX2000400)",
+            "price": 59.99,
+            "rating": 4.7,
+            "image": "product1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Sceptre 24\" Professional Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Machine Black (E248W-19203R Series)",
+            "price": 139.97,
+            "rating": 4.6,
+            "image": "product2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "iPhone Charger, TAKAGI Lightning Cable 3PACK 6FT Nylon Braided USB Charging Cable High Speed Data Sync Transfer Cord Compatible with iPhone 13/12/11 Pro Max/XS MAX/XR/XS/X/8/7/Plus/6S/6/SE/5S/iPad",
+            "price": 8.49,
+            "rating": 4.4,
+            "image": "product3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Logitech C920x HD Pro Webcam, Full HD 1080p/30fps Video Calling, Clear Stereo Audio, HD Light Correction, Works with Skype, Zoom, FaceTime, Hangouts, PC/Mac/Laptop/Macbook/Tablet - Black",
+            "price": 70.00,
+            "rating": 4.7,
+            "image": "product4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Roku Express 4K+ 2021 | Streaming Media Player HD/4K/HDR with Smooth Wireless Streaming and Roku Voice Remote with TV Controls, Includes Premium HDMI® Cable",
+            "price": 29.00,
+            "rating": 4.7,
+            "image": "product5.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Original HP 63XL Black High-yield Ink Cartridge | Works with HP DeskJet 1112, 2130, 3630 Series; HP ENVY 4510, 4520 Series; HP OfficeJet 3830, 4650, 5200 Series | Eligible for Instant Ink | F6U64AN",
+            "price": 41.89,
+            "rating": 4.8,
+            "image": "product6.jpg"
+        },
+        {
+            "id": 7,
+            "title": "SAMSUNG 970 EVO Plus SSD 2TB - M.2 NVMe Interface Internal Solid State Drive with V-NAND Technology (MZ-V7S2T0B/AM)",
+            "price": 199.99,
+            "rating": 4.9,
+            "image": "product7.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Logitech M510 Wireless Computer Mouse for PC with USB Unifying Receiver - Graphite",
+            "price": 29.99,
+            "rating": 4.7,
+            "image": "product8.jpg"
+        },
+        {
+            "id": 9,
+            "title": "SanDisk 128GB Ultra MicroSDXC UHS-I Memory Card with Adapter - 120MB/s, C10, U1, Full HD, A1, Micro SD Card - SDSQUA4-128G-GN6MA",
+            "price": 17.39,
+            "rating": 4.8,
+            "image": "product9.jpg"
+        }
+    ]
+}

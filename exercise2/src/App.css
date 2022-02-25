@@ -1,0 +1,15 @@
+.title {
+  background-color:gold
+}
+
+.title > p {
+  color: grey;
+  margin-left: 10px;
+  font-style: italic;
+}
+
+li {
+  background-color: pink;
+  margin-bottom: 5px;
+  padding-left: 5px;
+}
